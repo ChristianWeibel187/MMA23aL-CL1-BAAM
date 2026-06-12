@@ -1,0 +1,57 @@
+[2026-06-05 10:48:49] DB gelesen: 99 Produkte -> 40 verschiedene Modelle.
+[2026-06-05 10:48:49] Zu verarbeiten: 3 Modelle.
+[2026-06-05 10:48:49] ------------------------------------------------------------
+[2026-06-05 10:48:51] [ 1/ 3] adidas-samba-panda                 OK  600x801 png     184 KB
+[2026-06-05 10:48:55] [ 2/ 3] adidas-gazelle-grey                OK  900x900 png     779 KB
+[2026-06-05 10:48:56] [ 3/ 3] new-balance-new-balance-550-blue   OK  1200x1200 png     721 KB
+[2026-06-05 10:48:57] ------------------------------------------------------------
+[2026-06-05 10:48:57] FERTIG. OK: 3  ·  uebersprungen: 0  ·  fehlgeschlagen: 0
+[2026-06-05 10:50:40] DB gelesen: 99 Produkte -> 40 verschiedene Modelle.
+[2026-06-05 10:50:40] Zu verarbeiten: 44 Modelle.
+[2026-06-05 10:50:40] ------------------------------------------------------------
+[2026-06-05 10:50:40] [ 1/44] adidas-samba-panda                 SKIP (Bild vorhanden)
+[2026-06-05 10:50:40] [ 2/44] adidas-gazelle-grey                SKIP (Bild vorhanden)
+[2026-06-05 10:50:40] [ 3/44] new-balance-new-balance-550-blue   SKIP (Bild vorhanden)
+[2026-06-05 10:50:41] [ 4/44] adidas-yeezy-350-green             OK  650x429 png     425 KB
+[2026-06-05 10:50:42] [ 5/44] adidas-superstar-beige             OK  700x700 png     159 KB
+[2026-06-05 10:50:45] [ 6/44] asics-gel-kayano-14-red            OK  1000x1000 webp     57 KB
+[2026-06-05 10:50:46] [ 7/44] balenciaga-triple-s-triple-white   OK  1400x1000 avif     28 KB
+[2026-06-05 10:50:48] [ 8/44] nike-air-jordan-1-black            OK  1184x1184 avif     22 KB
+[2026-06-05 10:50:50] [ 9/44] nike-air-force-1-panda             OK  1200x1200 webp     46 KB
+[2026-06-05 10:50:52] [10/44] nike-dunk-low-grey                 OK  1184x1184 avif     31 KB
+[2026-06-05 10:50:54] [11/44] adidas-samba-blue                  OK  1065x874 png     761 KB
+[2026-06-05 10:50:57] [12/44] adidas-gazelle-green               OK  700x700 png     302 KB
+[2026-06-05 10:50:59] [13/44] new-balance-new-balance-550-beige  OK  1200x1200 webp     57 KB
+[2026-06-05 10:51:00] [14/44] adidas-yeezy-350-red               OK  592x505 png     540 KB
+[2026-06-05 10:51:03] [15/44] adidas-superstar-triple-white      OK  700x500 avif     15 KB
+[2026-06-05 10:51:05] [16/44] asics-gel-kayano-14-black          OK  1024x768 webp    108 KB
+[2026-06-05 10:51:07] [17/44] balenciaga-triple-s-panda          OK  1400x1000 avif     28 KB
+[2026-06-05 10:51:09] [18/44] nike-air-jordan-1-grey             OK  1728x2160 avif     66 KB
+[2026-06-05 10:51:10] [19/44] nike-air-force-1-blue              OK  592x592 avif     12 KB
+[2026-06-05 10:51:12] [20/44] nike-dunk-low-green                OK  592x592 avif     11 KB
+[2026-06-05 10:51:15] [21/44] adidas-samba-beige                 OK  840x840 png     274 KB
+[2026-06-05 10:51:19] [22/44] adidas-gazelle-red                 OK  940x940 png    1005 KB
+[2026-06-05 10:51:20] [23/44] new-balance-new-balance-550-triple-white OK  880x880 png     210 KB
+[2026-06-05 10:51:22] [24/44] adidas-yeezy-350-black             OK  1000x714 png     410 KB
+[2026-06-05 10:51:24] [25/44] adidas-superstar-panda             OK  1000x838 webp     59 KB
+[2026-06-05 10:51:26] [26/44] asics-gel-kayano-14-grey           OK  1200x1200 png     702 KB
+[2026-06-05 10:51:28] [27/44] balenciaga-triple-s-blue           OK  1398x780 png     928 KB
+[2026-06-05 10:51:30] [28/44] nike-air-jordan-1-green            OK  936x1170 avif     88 KB
+[2026-06-05 10:51:32] [29/44] nike-air-force-1-beige             OK  1728x2160 avif    233 KB
+[2026-06-05 10:51:35] [30/44] nike-dunk-low-red                  OK  1068x1068 png    1699 KB
+[2026-06-05 10:51:38] [31/44] adidas-samba-triple-white          OK  1250x1000 webp    183 KB
+[2026-06-05 10:51:41] [32/44] adidas-gazelle-black               OK  1000x1000 jpg      57 KB
+[2026-06-05 10:51:43] [33/44] new-balance-new-balance-550-panda  OK  1000x714 png     396 KB
+[2026-06-05 10:51:45] [34/44] adidas-yeezy-350-grey              OK  750x750 png     261 KB
+[2026-06-05 10:51:47] [35/44] adidas-superstar-blue              OK  1200x1200 png     776 KB
+[2026-06-05 10:51:50] [36/44] asics-gel-kayano-14-green          OK  819x1024 png     193 KB
+[2026-06-05 10:51:51] [37/44] balenciaga-triple-s-beige          OK  1200x1200 webp     65 KB
+[2026-06-05 10:51:53] [38/44] nike-air-jordan-1-red              OK  1000x714 png     644 KB
+[2026-06-05 10:51:55] [39/44] nike-air-force-1-triple-white      OK  1184x1184 avif     18 KB
+[2026-06-05 10:51:57] [40/44] nike-dunk-low-black                OK  1184x1184 avif     24 KB
+[2026-06-05 10:51:58] [41/44] air-jordan-1-red                   OK  1728x2160 avif     89 KB
+[2026-06-05 10:52:01] [42/44] yeezy-350-granite                  OK  1000x996 webp    307 KB
+[2026-06-05 10:52:03] [43/44] new-balance-550-triple-white       OK  880x880 webp     27 KB
+[2026-06-05 10:52:06] [44/44] nike-dunk-low-blue                 OK  1728x2160 avif     76 KB
+[2026-06-05 10:52:07] ------------------------------------------------------------
+[2026-06-05 10:52:07] FERTIG. OK: 41  ·  uebersprungen: 3  ·  fehlgeschlagen: 0
